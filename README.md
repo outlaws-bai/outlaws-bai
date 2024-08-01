@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-🔭 I’m currently working on web security and security tool development.
+📫 outlaws@88.com
+
+🔭 web security and security tool development.
 
 <!--
 **outlaws-bai/outlaws-bai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
